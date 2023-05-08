@@ -2,11 +2,11 @@ import React from "react"
 // An object containing class names for different bot types//
 const botTypeClasses = {
   Assault: "icon military",
-  Witch: "icon magic",
-  Captain: "icon star"
   Defender: "icon shield",
   Support: "icon plus circle",
   Medic: "icon ambulance",
+  Witch: "icon magic",
+  Captain: "icon star"
 }
 // A functional component that displays detailed information about a single bot//
 
